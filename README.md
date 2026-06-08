@@ -24,8 +24,6 @@ El objetivo de este proyecto es automatizar el proceso de solicitud de vacacione
 * GitHub
 * Diagramas BPMN 2.0
 
-python tpi_org_empresarial.py
-
 ### Estructura de Datos
 
 El sistema utiliza una base de datos simulada mediante un diccionario que almacena información de los empleados y sus días disponibles
